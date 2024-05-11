@@ -93,7 +93,8 @@ Figma
 </div>
 ```
 ## OUTPUT:
-![image](https://github.com/Harevasu/Figma/assets/147985044/170e6622-6329-4a6c-a5f8-7dc7d4951349)
+![image](https://github.com/Harevasu/Figma/assets/147985044/5c3bae7c-8ad5-4c40-ad6b-f0cb588edb3f)
+
 
 
 
